@@ -2,7 +2,7 @@
 ### Lykopex
 #### Cybersecurity Enthusiast
 #### Author of the AD Bible
-#### Contact Email (Use Key): lykopex@mailbox.org
+#### Contact Email (Use Key): s01xco3l@anonaddy.com
 #### Public Email Key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
