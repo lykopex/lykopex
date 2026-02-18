@@ -1,7 +1,8 @@
-![ProfilePicture](262248357.png)
+![ProfilePicture](profilePicture.png)
 ### Lykopex
 #### Cybersecurity Enthusiast
 #### Author of the AD Bible
+#### Contact Email (Use Key): lykopex@mailbox.org
 #### Public Email Key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
