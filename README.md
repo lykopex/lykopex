@@ -1,4 +1,3 @@
-![ProfilePicture](profilePicture.png)
 ### Lykopex
 #### Cybersecurity Enthusiast
 #### Author of the AD Bible
