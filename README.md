@@ -1,11 +1,60 @@
-## Hi there 👋, I am Lykopex
+![ProfilePicture](262248357.png)
+### Lykopex
+#### Cybersecurity Enthusiast
+#### Author of the AD Bible
+#### Public Email Key:
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+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
+9UNx+12L+w==
+=+Rlc
+-----END PGP PUBLIC KEY BLOCK-----
 
+```
